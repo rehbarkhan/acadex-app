@@ -21,3 +21,11 @@ up:
 .PHONY: ui
 ui:
 	cd ui && npm i && npm run dev -- --host
+
+.PHONY: docker-up
+docker-up:
+	cd tools && docker compose up
+
+.PHONY: docker-down
+docker-down:
+	cd tools && docker compose down

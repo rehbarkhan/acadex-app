@@ -2,5 +2,7 @@
 ERP Application for School &amp; College
 
 ### TODO
-- [ ] install prime vue + tailwind
-- [ ] introduce postgesql via docker
+- [x] install prime vue + tailwind
+- [x] introduce postgesql via docker [ not now]
+- [x] Login & redirect based on group or ?next value 
+- [ ] create designation model 

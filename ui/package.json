@@ -12,7 +12,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@primeuix/themes": "^1.2.2",
     "@tailwindcss/vite": "^4.1.11",
+    "axios": "^1.11.0",
     "lucide-vue-next": "^0.534.0",
     "pinia": "^3.0.3",
     "primeicons": "^7.0.0",
